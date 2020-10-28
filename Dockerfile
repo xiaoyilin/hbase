@@ -1,4 +1,4 @@
-FROM java:8-jdk
+FROM xiaoyilin/jdk8:271
 MAINTAINER  xiaoyilin<406735078@qq.com>
 ENV HBASE_VERSION=2.2.6
 ENV BASE_DIR=/usr/local
